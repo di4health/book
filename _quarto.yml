@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs  # Change this from _book to docs  
+
+book:
+  title: "Decision Intelligence 4 Health"
+  author: "Tomás Aragón, MD, DrPH"
+  date: "1/31/2026"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
