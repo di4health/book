@@ -7,7 +7,6 @@ book:
   author: "Tomás Aragón, MD, DrPH"
   search: true
   repo-url: https://github.com/di4health/book/
-  repo-actions: [edit]
   downloads: [pdf]
   date: "1/31/2026"
   chapters:
